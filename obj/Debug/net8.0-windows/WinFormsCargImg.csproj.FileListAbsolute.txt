@@ -1,0 +1,16 @@
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\bin\Debug\net8.0-windows\WinFormsCargImg.exe
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\bin\Debug\net8.0-windows\WinFormsCargImg.deps.json
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\bin\Debug\net8.0-windows\WinFormsCargImg.runtimeconfig.json
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\bin\Debug\net8.0-windows\WinFormsCargImg.dll
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\bin\Debug\net8.0-windows\WinFormsCargImg.pdb
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.Form1.resources
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.csproj.GenerateResource.cache
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.AssemblyInfoInputs.cache
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.AssemblyInfo.cs
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.csproj.CoreCompileInputs.cache
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.dll
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\refint\WinFormsCargImg.dll
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.pdb
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\WinFormsCargImg.genruntimeconfig.cache
+C:\Users\Puentes Delfin\Documents\Trabajos SC Romeo\Programas\Proyectos Visual\WinFormsCargImg\obj\Debug\net8.0-windows\ref\WinFormsCargImg.dll
